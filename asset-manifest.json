@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.d3c690d7.js",
+    "main.js": "/static/js/main.450bf56d.js",
     "static/media/product_banner.jpg": "/static/media/product_banner.6c26b9e0a77beb1bdd38.jpg",
     "static/media/how_to_use.png": "/static/media/how_to_use.9a3d868cde188b143d59.png",
     "static/media/floral_pic.png": "/static/media/floral_pic.ef8cf00f33cf1ba18b1d.png",
@@ -11,9 +11,9 @@
     "static/media/musk_detail.png": "/static/media/musk_detail.70549dc1a511ebac4882.png",
     "static/media/innerscent-logo.png": "/static/media/innerscent-logo.d08fd9fc6b39d7b5ccc5.png",
     "index.html": "/index.html",
-    "main.d3c690d7.js.map": "/static/js/main.d3c690d7.js.map"
+    "main.450bf56d.js.map": "/static/js/main.450bf56d.js.map"
   },
   "entrypoints": [
-    "static/js/main.d3c690d7.js"
+    "static/js/main.450bf56d.js"
   ]
 }
